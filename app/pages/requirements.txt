@@ -1,8 +1,0 @@
-streamlit
-pandas
-yfinance
-matplotlib
-seaborn
-numpy
-altair
-io
