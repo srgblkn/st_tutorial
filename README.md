@@ -6,5 +6,5 @@
 
 #### Все страницы на русском, виджеты в sidebar, есть st.file_uploader + st.download_button  
 #### Используются st.line_chart, st.bar_chart, matplotlib  
-#### Задание выполнено полностью  
-#### Готово к сдаче
+#### Задание выполнено полностью по [ссылке](https://elbrustask.streamlit.app/):
+https://elbrustask.streamlit.app/
